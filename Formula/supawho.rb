@@ -1,8 +1,8 @@
 class Supawho < Formula
   desc "CLI tool to manage multiple Supabase accounts via macOS Keychain"
   homepage "https://github.com/EliaTolin/supawho"
-  url "https://github.com/EliaTolin/supawho/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "c323b7be92aefd48bcc4f11649006d723e1b11efbc312446a0c59579844afe9c"
+  url "https://github.com/EliaTolin/supawho/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "c14217739c1db2023c274d971f2467abeedf3e2a25a5aef6a823f3b80d7c9f6b"
   license "MIT"
 
   def install
